@@ -2,3 +2,12 @@
 @import "./variables.css";
 
 @import "./components/navbar.css";
+@import "./components/auto-slide.css";
+
+body {
+  font-family: "Radio Canada Big", sans-serif;
+}
+
+.products {
+  margin-bottom: 48px;
+}
